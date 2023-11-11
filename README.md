@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert Ferreira</h1>
 <h3 align="center">Entusiasta de tecnologias Front-end e Back-end procurando se desenvolver cada vez mais.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertsferreira" alt="robertsferreira" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertsferreira&theme=Dracula" alt="robertsferreira" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
