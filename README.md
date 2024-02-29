@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robert Ferreira</h1>
 <h3 align="center">Entusiasta de tecnologias Front-end e Back-end procurando se desenvolver cada vez mais.</h3>
 
---
 
 - My main languages is are Python, Dart (Flutter Framework)
 - I'm bachelor's degree in Computer Science from the university [Unifagoc](https://unifagoc.edu.br/)
