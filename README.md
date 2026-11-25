@@ -5,8 +5,8 @@ I like new challenges regardless of the area, always seeking new knowledge.
 
 ## Some more infos
 - Name: Robert Ferreira
-- Age: 24
-- Stack: Python, FastAPI, Dart, Flutter
+- Age: 25
+- Stack: Python, FastAPI, Dart, Flutter, Rust
 - University: [Unifagoc](https://unifagoc.edu.br/) - Bachelor's degree in Computer Science
 - Prizes: Best student in computer science course
 
